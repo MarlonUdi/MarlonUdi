@@ -18,7 +18,7 @@
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
     <div> 
-      
+     
   #
   <div style="display: inline">
   <a href = "mailto:marl100santos@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>      
