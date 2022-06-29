@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonUdi&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline"><br>
   <img align="center" alt="Marlon-HTML" height="30" width="40" alt=" Logo HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marlon-CSS" height="30" width="40" alt=" Logo CSS"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
