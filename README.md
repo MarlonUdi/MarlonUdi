@@ -2,9 +2,9 @@
 **Seja bem-vindo(a) ao meu perfil!**
 
 - 👨‍💻 Formado em Automação Industrial
-- 🔭 No momento me aperfeiçando em Front-end
-- 🌱 Estudando CSS intermediário
-- 🧩 Focado em colaborar em projetos Front-end
+- 🔭 No momento me aperfeiçando em FullStack
+- 🌱 Estudando PHP com o MVC Laravel
+- 🧩 Focado em colaborar em projetos FullStacks 
 
 <div align="center">
   <a href="https://github.com/MarlonUdi">
