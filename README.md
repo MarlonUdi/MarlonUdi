@@ -1,10 +1,8 @@
-#  Olá, aceita um café? ☕ 
 **Seja bem-vindo(a) ao meu perfil!**
 
 - 👨‍💻 Formado em Automação Industrial
-- 🔭 No momento me aperfeiçando em FullStack
-- 🌱 Estudando PHP com o MVC Laravel
-- 🧩 Focado em colaborar em projetos FullStacks 
+- 🔭 No momento migrando para Analista de Testes Automatizados
+- 🌱 Conhecimento em  PHP, MVC Laravel, SQL, Selenium
 
 <div align="center">
   <a href="https://github.com/MarlonUdi">
